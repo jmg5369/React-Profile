@@ -21,7 +21,7 @@ export default function App() {
 
   return (
    <div className="app">
-     <Navbar/>
+     <Navbar currentPage = {currentPage} setCurrentPage = {setCurrentPage}/>
      {renderPage(currentPage)}
      <Footer/>
    </div>
