@@ -43,6 +43,11 @@ main{
 footer{
   text-align: center;
   background-color: antiquewhite;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+
 }
 
 .section-row {
@@ -212,3 +217,48 @@ h3 {
 
 }
   
+.form {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+  align-items: center;
+
+}
+.form input, .form textarea {
+  width:100%;
+
+  
+}
+.form button {
+  margin: 30px 0px;
+  background-color: aqua;
+  font-weight: 600;
+}
+.contact-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+.contact-div h2 {
+  margin: 30px 0px;
+   
+}
+
+.contact-div h4 {
+font-size: 18px;
+}
+
+.error-text {
+  color: red;
+}
+
+.nav a {
+  font-size: 20px;
+  font-weight: 600;
+  margin-right: 20px;
+  
+}

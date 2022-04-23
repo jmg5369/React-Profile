@@ -54,7 +54,9 @@ function validateEmail(email) {
     setSubject('');
   };
 return(
-    <div>
+    <div className="contact-div">
+       <h2>Contact Me</h2>
+      
           <form className="form">
         <input
           value={email}
@@ -91,7 +93,13 @@ return(
           <p className="error-text">{errorMessage}</p>
         </div>
       )}
+    <div className="contact-details">
+<h4>610-850-4996</h4>
+      <h4>jmg5369@gmail.com</h4>
+      <h4>Louisville,Co, 80027</h4>   
+      
     </div>
-    
+ 
+</div>
 )
 }
