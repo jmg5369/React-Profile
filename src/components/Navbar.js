@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function Navbar(props) {
-   const {currentPage, setCurrentPage} = props; 
+   const {setCurrentPage} = props; 
     return(
         <header>
         <div>
