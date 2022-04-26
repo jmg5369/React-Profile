@@ -6,4 +6,4 @@
 
 Welcome to my React Portfolio! 
 
-* This entire portfolio has been designed from scratch using React! 
+* This entire portfolio has been designed from scratch using React! a
