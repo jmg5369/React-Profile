@@ -2,7 +2,6 @@
 
 <br>
 
----
 
 Welcome to my React Portfolio! 
 
