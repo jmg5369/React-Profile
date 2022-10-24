@@ -11,6 +11,27 @@ Welcome to my React Portfolio!
 
 ---
 
+<br>
+
+
+## Table of Contents
+
+- [Installation](#installation)
+- [License](#license)
+- [Links](#links)
+
+## Installation
+
+
+- To install the app, make your way to the linked application or clone down the repository to your local machine.
+
+ 
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 
 ## Links
 * [Deployed Live](https://jmg5369.github.io/React-Profile/)
